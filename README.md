@@ -4,9 +4,13 @@ In my journey as a web dev I have been used tons of library, lots are really goo
 
 So, ready to cause some drama? Here we go 👇
 
-<img src="https://user-images.githubusercontent.com/7850794/164965523-3eced4c4-6020-467e-acde-f11b7900ad62.png" alt="motion" width="100" height="100" decoding="async" loading="lazy" align="right" />
+[<img src="https://user-images.githubusercontent.com/7850794/164965523-3eced4c4-6020-467e-acde-f11b7900ad62.png" alt="motion" width="100" height="100" decoding="async" loading="lazy" align="right" />](https://motion.dev/)
 
 ## Motion
+
+![NPM Downloads](https://img.shields.io/npm/dm/motion)
+![NPM License](https://img.shields.io/npm/l/motion)
+![GitHub Repo stars](https://img.shields.io/github/stars/motiondivision/motionone?style=social)
 
 <details><summary>General Information</summary>
 
