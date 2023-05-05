@@ -1,0 +1,13 @@
+{
+  "name": "libraries-i-used-review",
+  "version": "1.0.0",
+  "description": "Highly subjective review on libraries I have used",
+  "repository": "https://github.com/rootEnginear/libraries-i-used-review.git",
+  "author": "rootEnginear <rootEnginear@users.noreply.github.com>",
+  "scripts": {
+    "doctoc": "doctoc README.md --github"
+  },
+  "devDependencies": {
+    "doctoc": "^2.2.1"
+  }
+}

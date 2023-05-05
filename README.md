@@ -4,6 +4,17 @@ In my journey as a web dev I have been used tons of library, lots are really goo
 
 So, ready to cause some drama? Here we go 👇
 
+## Table of Contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Motion](#motion)
+- [Floating UI](#floating-ui)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 [<img src="https://user-images.githubusercontent.com/7850794/164965523-3eced4c4-6020-467e-acde-f11b7900ad62.png" alt="motion" width="100" height="100" decoding="async" loading="lazy" align="right" />](https://motion.dev/)
 
 ## Motion
